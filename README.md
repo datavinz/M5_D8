@@ -17,10 +17,10 @@ Per quanto riguarda la DashBoard finale, le pagine sono state sviluppate secondo
 
 *Tendenzialmente i titoli dei dati e dei grafici sono esplicativi, in ogni caso vado ad evidenziare quelli che ritengo informazioni non comprensibili in maniera diretta, a causa della specifictà della competizione o dell'informazione nuova che ho voluto trarre:
 
-IPS2022:  Indice di incidenza dei punti della stagione in corso sul totale della carriera del pilota, volta a mostrare come l'ultima stagione incida o no sulla carriera/valore del pilota.
+IPS2022:  Incidenza dei punti della stagione in corso, sul totale della carriera del pilota, volta a mostrare come l'ultima stagione incida o no sulla carriera/valore del pilota.
 
 FastLap/GiroVeloce: Giro più veloce fatto segnare durante la gara.
 
 GrandSlam: equivale a conquistare la pole position, il giro più veloce e la vittoria in uno stesso Gran Premio.
 
-*Nel Garfico Andamento Stagionale Qualifiche, sull'asse y sono stati invertiti i dati (dall'alto verso il basso), per avere in alto la linea temporale in corrsipondenza delle migliori posizioni raggiunte in qualifica, con la prima posizione a fare da limite in alto.
+*Nel Grafico Andamento Stagionale Qualifiche di pagina 1, sull'asse y sono stati invertiti i dati (dall'alto verso il basso), per avere in alto la linea temporale in corrsipondenza delle migliori posizioni raggiunte in qualifica, con la prima posizione a fare da limite in alto.
