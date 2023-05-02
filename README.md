@@ -1,19 +1,33 @@
 Presentazione.
 
-Per l'esercizio finale del Modulo di PowerBi, con la volontà di mantenere un filo di unione con i precedenti strumenti studiati e la curiosità di verificare il differente risultato derivante dagli strumenti in PowerBi, ho scelto di proseguire ad utilizzare il Dataset di Formula1 usato sin dall'inizio, focalizzando l'analisi sui risultati dei Piloti della Scuderia Ferrari nella stagione 2022, affiancando ai file di questo progetto anche un file nel quale ho raccolto tutti gli esercizi svolti di questo modulo.
+Per l'esercizio finale del Modulo di PowerBi, con la volontà di mantenere un filo di unione con i precedenti strumenti studiati e la curiosità di verificare il differente risultato derivante dagli strumenti in PowerBi, ho scelto di proseguire ad utilizzare il Dataset di Formula1 usato sin dall'inizio, focalizzando l'analisi sui risultati dei Piloti delle Scuderie nella stagione 2022, affiancando ai file di questo progetto anche un file nel quale ho raccolto tutti gli esercizi svolti di questo modulo.
 
 Ho condiviso i seguenti file:
 
-- M5_D8_DashBoard    (Pdf contenente le 3 pagine della Dashboard sviluppata)
+- M5_D8_DashBoard    (Pdf contenente 3 pagine per filtro(Team) della Dashboard sviluppata)
 - M5_D8_Presentazione     (Pdf contenente le varie fasi che hanno portato al risultato finale)
 - M5_D8        (pbix della DashBoard creata)
 - M5_Esercizi_Svolti   (Pdf contenente gli esercizi svolti del modulo)
 
+.
+.
+.
+.
+
+
 Per quanto riguarda la DashBoard finale, le pagine sono state sviluppate secondo tale idee:
 
-- La prima pagina mostra i risultati sommari dell'annata dei 2 piloti.
-- La seconda pagina indaga dati meno diretti o più votati a mostrare l'impatto/suddivisione dei risultati che ha ottenuto la Squadra dalle performance dei singoli piloti.
+- La prima pagina mostra i risultati sommari dell'annata dei 2 piloti dello stesso Team, selezionabile dal filtro (sincronizzato con pagina 2).
+
+- La seconda pagina indaga dati meno diretti o più votati a mostrare l'impatto/suddivisione dei risultati che ha ottenuto la Squadra dalle performance dei singoli piloti. (Team selezionabile dal filtro come sopra)
+
 - La terza pagina con il drill-through è una pagina di destinazione incentrata specificamente sui dettagli dei singoli piloti.
+
+
+.
+.
+.
+.
 
 *Tendenzialmente i titoli dei dati e dei grafici sono esplicativi, in ogni caso vado ad evidenziare quelli che ritengo informazioni non comprensibili in maniera diretta, a causa della specifictà della competizione o dell'informazione nuova che ho voluto trarre:
 
