@@ -1,5 +1,6 @@
-Presentazione.
+DashBoard F1 Driver 2022
 
+Sommario:
 Per l'esercizio finale del Modulo di PowerBi, con la volontà di mantenere un filo di unione con i precedenti strumenti studiati e la curiosità di verificare il differente risultato derivante dagli strumenti in PowerBi, ho scelto di proseguire nell'utilizzo del Dataset di Formula1 usato sin dall'inizio, focalizzando l'analisi sul confronto dei risultati dei Piloti dello stesso Team, nella stagione 2022, affiancando ai file di questo progetto anche un file nel quale ho raccolto tutti gli esercizi svolti di questo modulo.
 
 Ho condiviso i seguenti file:
@@ -11,9 +12,6 @@ Ho condiviso i seguenti file:
 
 .
 .
-.
-.
-
 
 Per quanto riguarda la DashBoard finale, le pagine sono state sviluppate secondo tale idee:
 
